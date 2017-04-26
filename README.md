@@ -1,1 +1,2 @@
-The purpose of this repository is for the homepage of our website using CSS and HTML.
+# TLE 9 Class Exercises
+The purpose of this exercise is to create a homepage using CSS.
